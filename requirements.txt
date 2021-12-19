@@ -1,0 +1,8 @@
+Flask==1.0.3
+pymongo==4.0.1
+flask-restful
+Pillow==8.1.1
+gunicorn==19.9.0
+transformers==4.3.3
+--find-links https://download.pytorch.org/whl/torch_stable.html
+torch==1.7.1+cpu
