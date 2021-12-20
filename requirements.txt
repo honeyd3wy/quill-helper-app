@@ -1,4 +1,4 @@
-flask==1.0.3
+flask==2.0.2
 pymongo==4.0.1
 flask-restful
 Pillow==8.1.1
